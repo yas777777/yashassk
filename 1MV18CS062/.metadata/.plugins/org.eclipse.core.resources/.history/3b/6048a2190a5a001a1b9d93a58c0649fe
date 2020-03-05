@@ -1,0 +1,6 @@
+package student;
+import java.util.*;
+public class Student {
+	
+
+}
